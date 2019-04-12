@@ -1,6 +1,6 @@
 # Big-Data
 
-For data please refer site: https://grouplens.org/datasets/movielens/
+For datasets please refer site: https://grouplens.org/datasets/movielens/
 
 Larger data: MovieLens 20M Dataset
 
